@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "62e6213cd5c919be",
+    "type": "split",
+    "children": [
+      {
+        "id": "a240a193f659394c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eecb99041dd26eb6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6112f6a203d81a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "59da6fa7e6e2b3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf601bf07874017",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c05e36d2c36e5045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a7982ed83f527a79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60ff202bfbd9b31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "255ac6f522cc4c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "304a89d82815c7c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f41f53594374d72d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "977f238806e8a465",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "04d60a175dfcc0bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "bda37dc351c55afe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "eecb99041dd26eb6",
+  "lastOpenFiles": [
+    "A题/附件1 人口普查数据集/3.三普/3.三普/1.txt",
+    "A题/附件1 人口普查数据集/3.三普/3.三普/新建 文本文档.txt",
+    "A题/附件1 人口普查数据集/3.三普/3.三普",
+    "A题/附件1 人口普查数据集/3.三普/新建文件夹",
+    "东三省模板.doc",
+    "对话3.md",
+    "对话1.md",
+    "对话2.md",
+    "图片1.png",
+    "A题/附件1 人口普查数据集/1.一普/第一次全国人口普查主要数据-1953.pdf",
+    "A题/附件1 人口普查数据集/6.六普/第六次人口普查分县数据/第六次人口普查分县数据/07TABLE7-人口婚姻状况和妇女生育状况（长表数据）.xls",
+    "A题/附件1 人口普查数据集/6.六普/第六次人口普查分县数据/第六次人口普查分县数据/08TABLE8-家庭户住房状况（全部数据、长表数据）.xls",
+    "A题/附件1 人口普查数据集/6.六普/第六次人口普查分县数据/第六次人口普查分县数据/05TABLE4-各种受教育程度人口、平均受教育年限、文盲人口（全部数据）.xls",
+    "A题/附件1 人口普查数据集/6.六普/第六次人口普查分县数据/第六次人口普查分县数据/06table6-各行业门类人口及三次产业人口比重（长表数据）.xls",
+    "A题/附件1 人口普查数据集/6.六普/第六次人口普查分县数据/第六次人口普查分县数据/03TABLE3-各年龄组人口比重、有老年人口的户数、人口自然变动、迁入人口（全部数据）.xls",
+    "A题/附件1 人口普查数据集/6.六普/各省公报及部分数据/第六次人口普查后最新的各省人均GDP排名.jpg.jpg",
+    "A题/附件1 人口普查数据集/6.六普/各省公报及部分数据/2010年第六次人口普查各省市常住人口.jpg.jpg",
+    "A题/附件1 人口普查数据集/3.三普/第七卷 家庭、婚姻、生育/download.gif",
+    "欢迎.md"
+  ]
+}
